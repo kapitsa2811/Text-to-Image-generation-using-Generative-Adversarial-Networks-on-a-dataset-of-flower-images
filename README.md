@@ -46,7 +46,7 @@ python downloads.py
 - this flower has petals that are blue and white.
 - these white flowers have petals that start off white in color and end in a white towards the tips.
 
-<a href="http://tensorlayer.readthedocs.io">
+<a href="https://github.com/slaxmancs/Text-to-Image-Appication/blob/master/samples/gen_samples/gen.png">
 <div align="center">
 	<img src="result.png" width="70%" height="70%"/>
 </div>
