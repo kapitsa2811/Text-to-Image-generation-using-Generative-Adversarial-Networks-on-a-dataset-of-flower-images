@@ -27,7 +27,7 @@ python downloads.py
 - `utils.py` helper functions.
 - `model.py` models.
 ## Deployment of Web Application
-- Upload all the trained and web app files to web server or domain
+- Upload all the trained (npz) and web app files to web server or domain
 - `input.php` run the input.php file to give input.
 -  Give input and submit get desired output .
 
