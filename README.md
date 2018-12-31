@@ -26,6 +26,11 @@ python downloads.py
 - `train_txt2im.py` train a text to image model.
 - `utils.py` helper functions.
 - `model.py` models.
+## Deployment of Web Application
+- Upload all the trained and web app files to web server or domain
+- `input.php` run the input.php file to give input.
+-  Give input and submit get desired output .
+
 
 ## References
 - [Generative Adversarial Text-to-Image Synthesis][2] Paper
